@@ -1,0 +1,29 @@
+@import url('http://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+* {
+    font-family: 'Sora', sans-serif;
+    font-weight: normal;
+}
+
+.DD {
+    text-align: center;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 9px;
+    background: #ffffff;
+    padding: 11px 22px;
+    color: #757575;
+    border: 1px solid #E5E5E5;
+    cursor: pointer;
+    transition: all 0.2s ease-on-out;
+    margin-right: 15px;
+}
+.DD:hover {
+    transition: all 0.2s ease-in-out;
+    background: #ff8aae;
+    color: #010606;
+}
+
+h1 {
+    font-size: 12px;
+}
